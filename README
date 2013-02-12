@@ -1,0 +1,12 @@
+Overview
+==========
+
+PPdict is a liteweight dictionary written in python, particularly optimized for xfce environment.
+
+PPdict reuses stardict data format.
+
+Try it
+==========
+$ git clone https://github.com/luohao-brian/ppdict.git
+$ cd ppdict
+$ python ppgui.py
